@@ -21,7 +21,7 @@
 
   document.addEventListener('scroll', toggleScrolled);
   window.addEventListener('load', toggleScrolled);
-
+ 
   /**
    * Mobile nav toggle
    */
